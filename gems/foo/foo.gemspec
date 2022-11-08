@@ -1,8 +1,6 @@
-require_relative 'lib/foo/version'
-
 Gem::Specification.new do |spec|
   spec.name          = "foo"
-  spec.version       = Foo::VERSION
+  spec.version       = "0.1.0"
   spec.authors       = ["Matt Larraz"]
   spec.email         = ["mlarraz@users.noreply.github.com"]
 
